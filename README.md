@@ -41,3 +41,10 @@ The project demonstrates a basic machine learning workflow for sales forecasting
 
 ## Internship
 CognoRise Infotech - Machine Learning Internship
+## Project Graphs
+
+### Actual vs Predicted Sales
+![Sales Forecast Comparison](sales_forecast_comparison.png)
+
+### Future Sales Forecast
+![Future Sales Forecast](sales_forecast_future.png)
