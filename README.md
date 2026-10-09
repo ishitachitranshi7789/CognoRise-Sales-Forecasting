@@ -125,7 +125,7 @@ This graph shows the historical sales data together with the forecast for the ne
 
 The forecast represents estimated future sales based on historical patterns. Actual future sales may differ from these predictions.
 
-![Next 12 Months Sales Forecast](outputs/sales_forecast_future.png)
+![Next 12 Months Sales Forecast](sales_forecast_future[2].png)
 
 ---
 
