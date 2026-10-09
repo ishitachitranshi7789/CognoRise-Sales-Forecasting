@@ -74,8 +74,7 @@ This graph shows how the sales values change over time and helps identify patter
 
 This graph compares actual sales with predictions from the Random Forest, last-value baseline, and seasonal-naive baseline over the 12-month evaluation period.
 
-![Actual vs Predicted Sales](outputs/sales_forecast_comparison[1].png)
-
+![Actual vs Predicted Sales](sales_forecast_comparison[1].png)
 ### 3. Forecast for the Next 12 Months
 
 This graph displays recent historical sales and the forecast for the next 12 months.
