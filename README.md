@@ -68,7 +68,7 @@ The actual evaluation results are available in the model comparison CSV generate
 
 This graph shows how the sales values change over time and helps identify patterns in the historical data.
 
-![Historical Sales Trend](outputs/sales_historical_trend[1].png)
+![Historical Sales Trend](sales_historical_trend[1].png)
 
 ### 2. Actual vs Predicted Sales
 
