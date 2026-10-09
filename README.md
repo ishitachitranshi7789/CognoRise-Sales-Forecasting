@@ -104,34 +104,6 @@ This graph displays recent historical sales and the forecast for the next 12 mon
 4. Inspect the 12-month forecast and future forecast graph.
 5. Download the generated output files.
 
-Install the required libraries using:
-
-```bash
-pip install -r requirements.txt
-
-## Step 3 — Make the graphs appear
-
-The graph links above will display the actual images only after you've uploaded the corresponding PNG files into the `outputs` folder in your GitHub repository.
-
-The three filenames must match exactly:
-
-- `sales_historical_trend.png`
-- `sales_forecast_comparison.png`
-- `sales_forecast_future.png`
-
-Also upload the three CSV/model files listed in the README if you want those links to work.
-
-## Step 4 — Save your README
-
-After pasting the text:
-
-1. Scroll down to **Commit changes**.
-2. Enter the message `Improve README with project graphs and documentation`.
-3. Click **Commit changes**.
-
-**One important check:** The notebook needs to have run successfully before you describe its results as verified. This README deliberately avoids inventing metric values.
-
-Once you save it, open the repository home page. Your project description and, once the PNG files are uploaded, the three graphs should appear there.
 ## Graphs and Visualizations
 
 ### 1. Historical Sales Trend
