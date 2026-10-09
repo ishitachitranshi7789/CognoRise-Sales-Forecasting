@@ -79,8 +79,7 @@ This graph compares actual sales with predictions from the Random Forest, last-v
 
 This graph displays recent historical sales and the forecast for the next 12 months.
 
-![Next 12 Months Sales Forecast](outputs/sales_forecast_future[2].png)
-
+![Next 12 Months Sales Forecast](sales_forecast_future[2].png)
 ## Project Files
 
 | File | Description |
