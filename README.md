@@ -68,19 +68,19 @@ The actual evaluation results are available in the model comparison CSV generate
 
 This graph shows how the sales values change over time and helps identify patterns in the historical data.
 
-![Historical Sales Trend](outputs/sales_historical_trend.png)
+![Historical Sales Trend](outputs/sales_historical_trend[1].png)
 
 ### 2. Actual vs Predicted Sales
 
 This graph compares actual sales with predictions from the Random Forest, last-value baseline, and seasonal-naive baseline over the 12-month evaluation period.
 
-![Actual vs Predicted Sales](outputs/sales_forecast_comparison.png)
+![Actual vs Predicted Sales](outputs/sales_forecast_comparison[1].png)
 
 ### 3. Forecast for the Next 12 Months
 
 This graph displays recent historical sales and the forecast for the next 12 months.
 
-![Next 12 Months Sales Forecast](outputs/sales_forecast_future.png)
+![Next 12 Months Sales Forecast](outputs/sales_forecast_future[2].png)
 
 ## Project Files
 
